@@ -1,0 +1,18 @@
+body{ background-color: rgb(238, 238, 238);}
+
+p, h1, .table{
+    color: rgb(71, 71, 71);
+}
+
+input:visited{
+    border-color: rgb(0, 138, 138) !important;
+    height: 34px;
+    transition: all 3s;
+    
+}
+
+input:focus{
+    border-color: rgb(2, 177, 177) !important;
+    height: 40px;
+    transition: all 1s;
+}
